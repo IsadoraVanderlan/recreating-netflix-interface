@@ -1,2 +1,4 @@
 # recreating-netflix-interface
- @Digital Innovation One_Bootcamp Web Development- Recreating Netflix interface.
+ 
+ 
+@Digital Innovation One - Bootcamp Web development, Recreating the Netflix home screen.
